@@ -1,0 +1,20 @@
+.taskbar {
+  padding: 0;
+}
+
+.taskbar img {
+  position: absolute;
+  right: 0;
+}
+
+.taskbar-open {
+  position: relative;
+  width: 200px;
+  height: 100vh;
+  background: #dcbe5a;
+}
+
+.taskbar-close {
+  position: relative;
+  width: 30px;
+}
