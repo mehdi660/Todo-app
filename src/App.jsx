@@ -1,10 +1,12 @@
 import "./App.css";
-import TaskBar from "./components/TaskBar";
+import Header from "./components/Header";
+import NewTask from "./components/NewTask";
 
 function App() {
   return (
     <>
-      <TaskBar />
+      <Header />
+      <NewTask />
     </>
   );
 }
